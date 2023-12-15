@@ -1,0 +1,47 @@
+<html>
+    <head>
+        <title>My First Website</title>
+    </head>
+    <body>
+        <img src="./images/ExteriorNight-900x662.jpg" alt=""height="600"width="700">
+        <h1>A beautiful house</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Occupation</th>
+                    <th>Their houses</th>
+                    <th>Click to view</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Emmanuella</td>
+                    <td>Joy</td>
+                    <td>Emmanuel</td>
+                </tr>
+                <tr>
+                    <td>24</td>
+                    <td>14</td>
+                    <td>32</td>
+                </tr>
+                <tr>
+                    <td>Lawyer</td>
+                    <td>Student</td>
+                    <td>Journalist</td>
+                </tr>
+                <tr>
+                    <td><img src="./images/ExteriorNight-900x662.jpg" alt=""height="200"width="300"></td>
+                    <td><img src="./images/ExteriorNight-900x662.jpg" alt=""height="200"width="300"></td>
+                    <td><img src="./images/ExteriorNight-900x662.jpg" alt=""height="200"width="300"></td>
+                </tr>
+                <tr>
+                    <td><a href="./images/ExteriorNight-900x662.jpg" alt=""height="200"width="300">Click</a>"></td>
+                    <td><a href="./images/ExteriorNight-900x662.jpg" alt=""height="200"width="300">Click</a>"></td>
+                    <td><a href="./images/ExteriorNight-900x662.jpg" alt=""height="200"width="300">Click</a>"></td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>
